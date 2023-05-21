@@ -14,4 +14,9 @@
   <a href="mailto:seoh960426@gmail.com" target="_blank"><img src="https://img.shields.io/badge/seoh960426@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
   <br>
   <br>
+</p>
+<br>
+<br>
+<div align="center">
   ![Seohyeon's GitHub stats](https://github-readme-stats.vercel.app/api?username=seoh0426&show_icons=true&theme=radical)
+  </div>
