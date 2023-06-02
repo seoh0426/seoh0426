@@ -18,5 +18,5 @@
 <br>
 <br>
 <div align="center">
-  ![rainbow's GitHub stats](https://github-readme-stats.vercel.app/api?username=rainbow&show_icons=true&theme=radical)
+  ![Seohyeon's GitHub stats](https://github-readme-stats.vercel.app/api?username=seoh0426&show_icons=true&theme=omni)
   </div>
