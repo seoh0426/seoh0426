@@ -18,5 +18,5 @@
 <br>
 <br>
 <div align="center">
-  ![Seohyeon's GitHub stats](https://github-readme-stats.vercel.app/api?username=seoh0426&show_icons=true&theme=omni)
+  ![Seohyeon's GitHub stats](https://github-readme-stats.vercel.app/api?username=rainbow&show_icons=true&theme=omni)
   </div>
