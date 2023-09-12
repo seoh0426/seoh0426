@@ -18,5 +18,6 @@
 <br>
 <br>
 <div align="center">
-  ![Seohyeon's GitHub stats](https://github-readme-stats.vercel.app/api?username=rainbow&show_icons=true&theme=omni)
-  </div>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=seoh0426&layout=compact"><br><br>
+  <img src="https://github-readme-stats.vercel.app/api?username=seoh0426&show_icons=true">
+</div>
